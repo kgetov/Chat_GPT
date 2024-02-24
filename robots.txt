@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://ftp.beardy.digital/sitemap.xml
+Sitemap: https://ftp.beardy.digital/sitemap.xml
